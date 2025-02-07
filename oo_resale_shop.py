@@ -8,3 +8,15 @@ class ResaleShop:
         pass # You'll remove this when you fill out your constructor
 
     # What methods will you need?
+
+    def buy(self):
+        pass
+
+    def sell(self):
+        pass
+
+    def update_price(self, price:int):
+        pass
+
+    def refurbish(self):
+        pass
